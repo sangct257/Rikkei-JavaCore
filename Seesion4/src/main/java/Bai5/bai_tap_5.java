@@ -61,6 +61,8 @@ public class bai_tap_5 {
                                 double temp = diem[j];
                                 diem[j] = diem[j+1];
                                 diem[j+1] = temp;
+                            } else {
+                                System.out.println("Lựa chọn không hợp lệ!");
                             }
                         }
                     }
@@ -78,17 +80,9 @@ public class bai_tap_5 {
                     System.out.println("Nhập giá trị cần tìm: ");
                     double x = sc.nextDouble();
 
-                    // tìm kiếm tuyến tính
                     int index1 = -1;
-                    for (int i = 0; i < n; i++) {
-                        if (diem[i] == x){
-                            index1 = i;
-                            break;
-                        }
-                    }
-
-                    // tìm kiếm nhị phân
                     int index2 = -1;
+                    // tìm kiếm nhị phân
                     if (daSapXep){
                         int left = 0 , right = n - 1;
 
@@ -107,6 +101,14 @@ public class bai_tap_5 {
                                 // giảm dần
                                 if (diem[mid] < x) right = mid - 1;
                                 else left = mid + 1;
+                            }
+                        }
+                    } else {
+                        // tìm kiếm tuyến tính
+                        for (int i = 0; i < n; i++) {
+                            if (diem[i] == x){
+                                index1 = i;
+                                break;
                             }
                         }
                     }

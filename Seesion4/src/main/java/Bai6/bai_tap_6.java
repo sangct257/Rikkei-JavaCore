@@ -30,6 +30,7 @@ public class bai_tap_6 {
 
         boolean daSapXep = false;
         int kieuSapXep = 0;
+
         while (true){
             System.out.println("----- QUẢN LÝ NHÂN VIÊN ---------");
             System.out.println("1. Xem danh sách lương ");
