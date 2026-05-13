@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55aebf13-aabe-4548-b1ff-4a1a8a637870" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/bai1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bai1/model/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bai1/model/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bai2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bai2/model/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bai2/model/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bai2/model/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bai3/model/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bai4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bai4/model/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bai5/ZooApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bai5/model/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bai5/model/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bai5/model/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bai5/model/Elephant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bai5/model/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bai6/VehicleApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bai6/model/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bai6/model/MotorVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bai6/model/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bai6/model/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bai6/model/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seesion9/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Seesion9/.idea/gradle.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3DdCSRrpFphST3X1N6laEOsGscO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Seesion10 [:Bai1.Main.main()].executor": "Run",
+    "Gradle.Seesion10 [:bai3.Main.main()].executor": "Run",
+    "Gradle.Seesion10 [:bai4.Main.main()].executor": "Run",
+    "Gradle.Seesion10 [:bai5.ZooApp.main()].executor": "Run",
+    "Gradle.Seesion10 [:bai6.VehicleApp.main()].executor": "Run",
+    "Gradle.Seesion10 [:org.example.Main.main()].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/TuPC/Desktop/Java Core + JDBC/Seesion10",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.VehicleApp">
+    <configuration name="VehicleApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai6.VehicleApp" />
+      <module name="Seesion10.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bai6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZooApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai5.ZooApp" />
+      <module name="Seesion10.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bai5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bai2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai2.Main" />
+      <module name="Seesion10.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bai2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bai3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai3.Main" />
+      <module name="Seesion10.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bai3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bai4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai4.Main" />
+      <module name="Seesion10.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bai4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VehicleApp" />
+        <item itemvalue="Application.ZooApp" />
+        <item itemvalue="Application.bai4.Main" />
+        <item itemvalue="Application.bai3.Main" />
+        <item itemvalue="Application.bai2.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55aebf13-aabe-4548-b1ff-4a1a8a637870" name="Changes" comment="" />
+      <created>1778602559165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778602559165</updated>
+      <workItem from="1778602560327" duration="71000" />
+      <workItem from="1778602697887" duration="2343000" />
+      <workItem from="1778671520537" duration="10008000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
